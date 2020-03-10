@@ -11,7 +11,7 @@
   - <code>php bin/console doctrine:fixtures:load</code> 
           => créer un utilisateur admin -> psw : admin
   - <code>symfony server:serve</code>
-#### Pour le Frontend =>
+#### Frontend React.Js =>
   - <code>yarn install</code>
   - <code>yarn encore dev --watch</code>
     
