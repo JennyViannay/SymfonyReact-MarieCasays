@@ -26,6 +26,14 @@ class Article extends React.Component {
 
     submit = (e) => {
         console.log(this.state)
+        user = {
+            username : this.state.username,
+            password : this.state.password
+        }
+
+        axios.post('http://127.0.0.1:8000/login', user)
+        .then(response => response.data)
+        .then(console.log(data))
     }
 
     render(){
