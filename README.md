@@ -10,7 +10,7 @@
   - <code>php bin/console doctrine:migrations:migrate</code>
   - <code>php bin/console doctrine:fixtures:load</code> 
           => créer un utilisateur admin -> psw : admin
-  - <code>symfony server:serve</code>
+  - <code>symfony server:serve</code> ou <code>php -S localhost:8000</code>
 #### Frontend React.Js =>
   - <code>yarn install</code>
   - <code>yarn encore dev --watch</code>
