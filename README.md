@@ -1,5 +1,5 @@
 # Projet Symfony/REACT : 
-## Site vitrine administrable pour Marie Casaïs (dessinatrice)
+## Site vitrine administrable pour Marie Casaÿs (dessinatrice)
 
 ### Pour lancer le projet :
 #### Backend Symfony =>
